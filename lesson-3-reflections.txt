@@ -9,3 +9,9 @@ rather than having Git automatically stay up-to-date with your remote repository
       We might want to keep the original work locally and push changes
       to the remote. Doing the inverse automatically might damage what
       we are working on currently.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+      forks : used to copy from a remote to another GitHub remote.
+      clone : used to do a copy from local/remote repository to a local repository.
+      branches : used to copy the actual work to experiment new things to the main developed or written files.
