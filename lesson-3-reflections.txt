@@ -21,3 +21,11 @@ What is the benefit of having a copy of the last known state of the remote store
       So that we manipulate the closest version that other collaborators are using.
       This would allow less merging, and the differences are spotted quicker
       than using an old version of the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+      I think that mostly everything is hard.
+      Without Git you can't keep track of the changes in the files.
+      Without GitHub you can't see the changes introduced by another collaborator
+      without going and checking manually all the changes.
+      Merging could be harder.
